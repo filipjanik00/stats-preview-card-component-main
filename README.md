@@ -21,8 +21,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://your-solution-url.com)
-- Live Site URL: [Hosted on GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -36,4 +36,3 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Author
 
 - Frontend Mentor - [@filipjanik00](https://www.frontendmentor.io/profile/filipjanik00)
-
