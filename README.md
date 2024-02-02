@@ -32,6 +32,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Mobile First Workflow
 
 ## Author
 
